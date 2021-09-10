@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Django, Python, SEO and JavaScript**
 
-- 📫 How to reach me **daramolaafeez123@gmail.com**
+- 📫 You can reach me via my email **daramolaafeez123@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
