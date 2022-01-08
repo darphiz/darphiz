@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darphiz" alt="darphiz" /></a> </p>
 
-- 🔭 I’m currently working on [easyclassmate](http://easycampus.pythonanywhere.com/)
+- 🔭 I’m currently working on [easyclassmate](http://easyclassmate.com/)
 
 - 🌱 I’m currently learning **WordPress and Web Automation**
 
