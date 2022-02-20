@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daramola AFeez</h1>
 <h3 align="center">A software developer with 3 years experience, specializing on web development</h3>
-
+![alt text](https://github.com/darphiz/darphiz/raw/main/Snapchat-1733021825.jpg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darphiz" alt="darphiz" /></a> </p>
 
 - 🔭 I’m currently working on [easyclassmate](http://www.easyclassmate.com/)
