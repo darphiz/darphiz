@@ -2,8 +2,6 @@
 <h3 align="center">A software developer with 3 years experience, specializing on web development</h3>
 <p align="center"> <img src="https://github.com/darphiz/darphiz/raw/main/Snapchat-1733021825.jpg" width="350" title="hover text">  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darphiz" alt="darphiz" /></a> </p>
-
 - 🔭 I’m currently working on [easyclassmate](http://www.easyclassmate.com/)
 
 - 📝 I regularly write articles on [https://phiscotech.hashnode.dev/](https://phiscotech.hashnode.dev/)
@@ -12,9 +10,6 @@
 
 - 📫 You can reach me via my email **daramolaafeez123@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
