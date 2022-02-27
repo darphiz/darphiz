@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daramola AFeez</h1>
-<h3 align="center">A software developer with 3 years experience, specializing on web development</h3>
+<h3 align="center">A software developer with 4 years experience, specializing on web development</h3>
 <p align="center"> <img src="https://github.com/darphiz/darphiz/raw/main/Snapchat-1733021825.jpg" width="350" title="hover text">  </p>
 
 - 🔭 I’m currently working on [easyclassmate](http://www.easyclassmate.com/)
