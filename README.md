@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daramola AFeez</h1>
-<h3 align="center">A software developer with 4 years experience, specializing on web development</h3>
+<h3 align="center">Full-Stack Developer(Backend-Heavy) | Python Developer</h3>
 <p align="center"> <img src="https://github.com/darphiz/darphiz/raw/main/Snapchat-1733021825.jpg" width="350" title="hover text">  </p>
 
-- 🔭 I’m currently working on [easyclassmate](http://www.easyclassmate.com/)
 
 - 📝 I regularly write articles on [https://phiscotech.hashnode.dev/](https://phiscotech.hashnode.dev/)
 
-- 💬 Ask me about **Django, Python, SEO and JavaScript**
+- 💬 Ask me about **Django, Python, Node JS and React**
 
 - 📫 You can reach me via my email **daramolaafeez123@gmail.com**
 
