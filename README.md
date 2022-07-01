@@ -18,19 +18,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 - Python
--JavaScript
+
+- JavaScript
+
 - React
+
 - Django
+
 - Node JS
+
 - Express JS
+
 - Figma
+
 - HTML
+
 - CSS
+
 - Bootstrap
+
 - TailWind CSS
+
 - Selenium & Beautiful Soup
+
 - Docker
+
 - Kubernetes
-- AWS -> LAmbda, S3 , CLoudFront, EC2 , Codecommit , EKS, RDBMS, SNS
-- 
+
+- AWS >> LAmbda, S3 , CLoudFront, EC2 , Codecommit , EKS, RDBMS, SNS
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darphiz&show_icons=true&locale=en&layout=compact" alt="darphiz" /></p>
