@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daramola AFeez</h1>
 <h3 align="center">Full-Stack Developer(Backend-Heavy) | Python Developer</h3>
-<p align="center"> <img src="https://github.com/darphiz/darphiz/raw/main/Snapchat-1733021825.jpg" width="350" title="hover text">  </p>
 
 
 - 📝 I regularly write articles on [https://phiscotech.hashnode.dev/](https://phiscotech.hashnode.dev/)
