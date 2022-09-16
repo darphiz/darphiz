@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daramola AFeez</h1>
-<h3 align="center">Full-Stack Developer(Backend-Heavy) | Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Daramola Afeez</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 
 - 📝 I regularly write articles on [https://phiscotech.hashnode.dev/](https://phiscotech.hashnode.dev/)
