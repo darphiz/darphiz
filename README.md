@@ -20,32 +20,14 @@
 
 - Python
 
-- JavaScript
+- JavaScript (MERN stack)
 
-- React
+- TypeScript
 
 - Django
 
-- Node JS
-
-- Express JS
-
-- Figma
-
-- HTML
-
-- CSS
-
-- Bootstrap
-
-- TailWind CSS
-
-- Selenium & Beautiful Soup
-
 - Docker
 
-- Kubernetes
-
-- AWS >> LAmbda, S3 , CLoudFront, EC2 , Codecommit , EKS, RDBMS, SNS
+- Azure, AWS, GCP
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darphiz&show_icons=true&locale=en&layout=compact" alt="darphiz" /></p>
