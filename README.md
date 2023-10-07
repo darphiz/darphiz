@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋, I'm Daramola Afeez</h1>
+<h1 align="center">Daramola Afeez</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-
-- 📝 I regularly write articles on [https://phiscotech.hashnode.dev/](https://phiscotech.hashnode.dev/)
-
-- 💬 Ask me about **Django, Python, Node JS and React**
+- 📝 I write articles on [https://blog.darphiz.tech/](https://blog.darphiz.tech/)
 
 - 📫 You can reach me via my email **daramolaafeez123@gmail.com**
 
@@ -20,14 +17,10 @@
 
 - Python
 
-- JavaScript (MERN stack)
+- JavaScript/TypeScript (MERN stack)
 
-- TypeScript
-
-- Django
+- Django/Flask
 
 - Docker
 
 - Azure, AWS, GCP
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darphiz&show_icons=true&locale=en&layout=compact" alt="darphiz" /></p>
