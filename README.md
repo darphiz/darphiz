@@ -1,5 +1,4 @@
-<h1 align="center">Daramola Afeez</h1>
-<h3 align="center">Full-Stack Developer | Devops Engineer</h3>
+<h1 align="center">Full-Stack Developer | Devops Engineer</h3>
 
 ### Summary
 Full-stack developer with 5+ years of experience. Proficient in JavaScript, Python, and Go, with strong CI/CD and infrastructure knowledge. 
