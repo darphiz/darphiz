@@ -23,7 +23,7 @@ Skilled in React and Next.js, with experience building scalable apps, automating
 </h4>
 <p>A fast, user-friendly app built for instant top-ups and bill payments with seamless wallet integration.</p>
 
-fintech react native expo ota updates GCP Devops
+<p>fintech | react native | expo | ota updates | GCP Devops</p>
 
 </td>
 <td width="50%" valign="top" style="padding: 10px;">
@@ -35,7 +35,7 @@ fintech react native expo ota updates GCP Devops
 </h4>
 <p>A fast, user-friendly app built for instant top-ups and bill payments with seamless wallet integration.</p>
 
-Fintech Typescript ExpressJS Next JS Postgres Python GCP Devops
+<p>fintech | typescript | expressJS | Next JS | Postgres | python | GCP Devops</p>
 
 </td>
 
@@ -50,7 +50,7 @@ Fintech Typescript ExpressJS Next JS Postgres Python GCP Devops
 </h4>
 <p>A digital platform helping students simplify their study-abroad journey</p>
 
-HTML Tailwindcss SEO CloudFlare Devops
+<p>HTML | tailwindcss | SEO | cloudflare | devops</p>
 
 </td>
 <td width="50%" valign="top" style="padding: 10px;">
@@ -62,7 +62,7 @@ HTML Tailwindcss SEO CloudFlare Devops
 </h4>
 <p>An e-commerce platform connecting Nigerian truck buyers with trusted Chinese truck suppliers — built for global reach and local trust.</p>
 
-ecommerce NestJS NextJS Typescript
+<p>ecommerce | NestJS | NextJS | typescript </p>
 
 </td>
 
@@ -77,7 +77,7 @@ ecommerce NestJS NextJS Typescript
 </h4>
 <p>A secure fintech platform for seamless crypto trading and bill payments</p>
 
-Next JS Python FastAPI Tailwindcss Web3
+<p>Next JS | python | fastAPI | tailwindcss | web3</p>
 
 </td>
 <td width="50%" valign="top" style="padding: 10px;">
@@ -89,7 +89,7 @@ Next JS Python FastAPI Tailwindcss Web3
 </h4>
 <p>Empowering healthcare professionals, students, and enthusiasts with intelligent tools for advanced genetic insights.</p>
 
-HeathTech Django Stripe Python NextJS Digital Ocean Devops
+<p>heath tech | django | stripe | python | NextJS | Digital Ocean Devops </p>
 
 </td>
 
