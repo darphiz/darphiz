@@ -1,7 +1,7 @@
 <h1 align="center">Full-Stack Developer | Devops Engineer</h3>
 
 ### Summary
-Full-stack developer with 6+ years of experience. Proficient in JavaScript, Python, and Go, with strong CI/CD and infrastructure knowledge. 
+Full-stack developer with 5+ years of experience. Proficient in JavaScript, Python, and Go, with strong CI/CD and infrastructure knowledge. 
 Skilled in React and Next.js, with experience building scalable apps, automating workflows, and deploying cloud-based solutions. 
 
 ### Skills 
